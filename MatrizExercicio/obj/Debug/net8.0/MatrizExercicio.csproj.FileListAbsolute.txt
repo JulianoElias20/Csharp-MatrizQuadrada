@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.exe
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.deps.json
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.runtimeconfig.json
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.dll
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\bin\Debug\net8.0\MatrizExercicio.pdb
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.AssemblyInfo.cs
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.dll
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\refint\MatrizExercicio.dll
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.pdb
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\MatrizExercicio.genruntimeconfig.cache
+C:\Users\julia\source\repos\MatrizExercicio\MatrizExercicio\obj\Debug\net8.0\ref\MatrizExercicio.dll
